@@ -20,11 +20,11 @@ import (
 const FontFilename = "NotoSansKR-Regular.otf"
 const FontDirectory = "Noto_Sans_KR"
 
-// INTPUT: List of hex-format character codepoints for Hangul Unicode blocks
-const GSourceFilename = "hangul_index.txt"
+// INTPUT: List of hex-format character codepoints for Hangeul Unicode blocks
+const GSourceFilename = "hangeul_index.txt"
 
 // OUTPUT: PNG file for writing the glyph grid sprite sheet
-const OutputFilename = "hangul.svg"
+const OutputFilename = "hangeul.svg"
 
 // Make a PNG glyph grid sprite sheet
 func main() {
