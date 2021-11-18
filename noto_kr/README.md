@@ -51,6 +51,11 @@ cluster alias list file to map between the NFC and NFD forms (see blitstr/codege
 
 ## Legal
 
+Unless otherwised noted, source code here for building sprite sheets is released under
+the MIT license (see [../LICENSE](../LICENSE)). Typefaces and font files are covered by
+their own copyrights and license notices.
+
+
 ## Noto Sans KR
 
 This project uses glyphs from the Noto Sans KR typeface.
