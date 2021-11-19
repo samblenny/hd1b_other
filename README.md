@@ -7,9 +7,7 @@ other glyph sets for high-dpi 1-bit monochrome
 
 Unless otherwised noted, source code here for building sprite sheets is released under
 the MIT license. Typefaces and font files are covered by their own copyrights and
-license notices (see below). To the best of my understanding, the typefaces used here
-are licensed such that distributing glyph sprite sheets with an MIT licensed project is
-acceptable.
+license notices (see below).
 
 
 ## JF Dot Izumi 16
