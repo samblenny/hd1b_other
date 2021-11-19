@@ -21,8 +21,9 @@ As I understand it, Izumi is licensed under the closest equivalent of Public
 Domain that is possible under Japanese copyright law, which is a bit different
 than under US copyright law.
 
-See [izumi_ja/INFO-Izumi16](izumi_ja/INFO-Izumi16) and
-[izumi_ja/INFO-Izumi16B](izumi_ja/INFO-Izumi16B).
+For JF Dot Izumi 16 copyright and license details, see:
+- [izumi_ja/INFO-Izumi16](izumi_ja/INFO-Izumi16)
+- [izumi_ja/INFO-Izumi16B](izumi_ja/INFO-Izumi16B)
 
 
 ## NeoDunggeunmo (Neo둥근모)
@@ -39,4 +40,5 @@ For NeoDunggeunmo copyright and license details, see:
 
 This project uses glyphs from the Noto Sans KR typeface.
 
-See [noto_kr/README.md](noto_kr/README.md) for details.
+For Noto Sans KR copyright and license details, see:
+- [noto_kr/README.md](noto_kr/README.md)
