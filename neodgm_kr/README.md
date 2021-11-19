@@ -36,10 +36,6 @@ work on Debian-derived distros such as Ubuntu. YMMV.
 
 ## Legal
 
-Unless otherwised noted, source code here for building sprite sheets is released under
-the MIT license (see [../LICENSE](../LICENSE)). Typefaces and font files are covered by
-their own copyrights and license notices.
-
 
 ## NeoDunggeunmo (Neo둥근모)
 
@@ -47,5 +43,4 @@ This project uses glyphs from the NeoDunggeunmo (Neo둥근모) bitmap font as do
 https://github.com/neodgm/neodgm/releases/tag/v1.521 in November 2021.
 
 For NeoDunggeunmo copyright and license details, see:
-- [neodgm/INFO-neodgm](neodgm/INFO-neodgm)
-- [neodgm/LICENSE.txt](neodgm/LICENSE.txt)
+- [neodgm/LICENSE-neodgm](neodgm/LICENSE-neodgm)

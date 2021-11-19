@@ -30,13 +30,4 @@ This project uses glyphs from the NeoDunggeunmo (Neo둥근모) bitmap font as do
 https://github.com/neodgm/neodgm/releases/tag/v1.521 in November 2021.
 
 For NeoDunggeunmo copyright and license details, see:
-- [neodgm_kr/neodgm/INFO-neodgm](neodgm_kr/neodgm/INFO-neodgm)
-- [neodgm_kr/neodgm/LICENSE.txt](neodgm_kr/neodgm/LICENSE.txt)
-
-
-## Noto Sans KR
-
-This project uses glyphs from the Noto Sans KR typeface.
-
-For Noto Sans KR copyright and license details, see:
-- [noto_kr/README.md](noto_kr/README.md)
+- [neodgm_kr/neodgm/LICENSE-neodgm](neodgm_kr/neodgm/LICENSE-neodgm)
