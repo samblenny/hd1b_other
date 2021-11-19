@@ -18,7 +18,7 @@ work on Debian-derived distros such as Ubuntu. YMMV.
 3. Print the unicode codepoints for Izumi16.ttf (same as Izumi16B.ttf)
    ```
    cd Izumi16
-   otfinfo -u Izumi16 > Izumi16.codepoints
+   otfinfo -u JF-Dot-Izumi16.ttf > Izumi16.codepoints
    ```
 4. Use sed, or regular expression search and replace in a text editor,
    to edit `Izum16.codepoints` to remove the prefix and suffix around
