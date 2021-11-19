@@ -40,10 +40,6 @@ work on Debian-derived distros such as Ubuntu. YMMV.
 
 ## Legal
 
-Unless otherwised noted, source code here for building sprite sheets is released under
-the MIT license (see [../LICENSE](../LICENSE)). Typefaces and font files are covered by
-their own copyrights and license notices.
-
 
 ## JF Dot Izumi Gothic 16
 

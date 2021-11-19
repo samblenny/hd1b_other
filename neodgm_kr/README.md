@@ -14,13 +14,12 @@ work on Debian-derived distros such as Ubuntu. YMMV.
 ### Generating List of Character Codepoints
 
 1. Get `otfinfo`: `sudo apt install lcdf-typetools`
-2. Unpack the font: `unpackFontFile.sh`
-3. Print the unicode codepoints for neodgm.ttf
+2. Print the unicode codepoints for neodgm.ttf
    ```
    cd neodgm
    otfinfo -u neodgm.ttf > neodgm.codepoints
    ```
-4. Use sed, or regular expression search and replace in a text editor,
+3. Use sed, or regular expression search and replace in a text editor,
    to edit `neodgm.codepoints` to remove the prefix and suffix around
    each hex codepoint.
 
@@ -29,7 +28,7 @@ work on Debian-derived distros such as Ubuntu. YMMV.
 
 1. Make sure you have a working Go compiler, Imagemagick, and a bash shell
 
-2. Run the svg sprite generators: `go run sprites.go`
+2. Run the svg sprite generator: `go run sprites.go`
 
 3. Run the svg to png converter: `./makeSpriteSheet.sh`
 
