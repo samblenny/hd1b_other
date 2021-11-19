@@ -42,5 +42,5 @@ work on Debian-derived distros such as Ubuntu. YMMV.
 This project uses glyphs from the NeoDunggeunmo (Neo둥근모) bitmap font as downloaded from
 https://github.com/neodgm/neodgm/releases/tag/v1.521 in November 2021.
 
-For NeoDunggeunmo copyright and license details, see:
+For NeoDunggeunmo copyright and license details (SIL Open Font License, Version 1.1), see:
 - [neodgm/LICENSE-neodgm](neodgm/LICENSE-neodgm)
