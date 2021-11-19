@@ -25,6 +25,16 @@ See [izumi_ja/INFO-Izumi16](izumi_ja/INFO-Izumi16) and
 [izumi_ja/INFO-Izumi16B](izumi_ja/INFO-Izumi16B).
 
 
+## NeoDunggeunmo (Neo둥근모)
+
+This project uses glyphs from the NeoDunggeunmo (Neo둥근모) bitmap font as downloaded from
+https://github.com/neodgm/neodgm/releases/tag/v1.521 in November 2021.
+
+For NeoDunggeunmo copyright and license details, see:
+- [neodgm_kr/neodgm/INFO-neodgm](neodgm_kr/neodgm/INFO-neodgm)
+- [neodgm_kr/neodgm/LICENSE.txt](neodgm_kr/neodgm/LICENSE.txt)
+
+
 ## Noto Sans KR
 
 This project uses glyphs from the Noto Sans KR typeface.
