@@ -10,7 +10,7 @@ the MIT license. Typefaces and font files are covered by their own copyrights an
 license notices (see below).
 
 
-## JF Dot Izumi 16
+### JF Dot Izumi 16
 
 This project uses glyphs from the JF Dot Izumi 16 Gothic bitmap font as downloaded from
 http://jikasei.me/font/jf-dotfont/ in November 2021.
@@ -24,10 +24,21 @@ For JF Dot Izumi 16 copyright and license details, see:
 - [izumi_ja/INFO-Izumi16B](izumi_ja/INFO-Izumi16B)
 
 
-## NeoDunggeunmo (Neo둥근모)
+### NeoDunggeunmo (Neo둥근모)
 
 This project uses glyphs from the NeoDunggeunmo (Neo둥근모) bitmap font as downloaded from
 https://github.com/neodgm/neodgm/releases/tag/v1.521 in November 2021.
 
 For NeoDunggeunmo copyright and license details (SIL Open Font License, Version 1.1), see:
 - [neodgm_kr/neodgm/LICENSE-neodgm](neodgm_kr/neodgm/LICENSE-neodgm)
+
+
+### NotoEmoji Regular
+
+This project uses glyphs from the NotoEmoji Regular font as downloaded from
+https://github.com/googlefonts/noto-emoji/blob/v2020-09-16-unicode13_1/fonts/NotoEmoji-Regular.ttf
+in November 2021.
+
+For NotoEmoji copyright and license details (SIL Open Font License, Version 1.1), see:
+- [bw_emoji/notoemoji/LICENSE-notoemoji](bw_emoji/notoemoji/LICENSE-notoemoji)
+- [bw_emoji/notoemoji/INFO-notoemoji](bw_emoji/notoemoji/INFO-notoemoji)
