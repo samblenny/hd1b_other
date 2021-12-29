@@ -42,3 +42,19 @@ in November 2021.
 For NotoEmoji copyright and license details (SIL Open Font License, Version 1.1), see:
 - [bw_emoji/notoemoji/LICENSE-notoemoji](bw_emoji/notoemoji/LICENSE-notoemoji)
 - [bw_emoji/notoemoji/INFO-notoemoji](bw_emoji/notoemoji/INFO-notoemoji)
+
+
+### Unifont 14
+
+This project uses glyphs from the Unifont 14 ttf fonts as downloaded from
+https://unifoundry.com/pub/unifont/unifont-14.0.01/font-builds/unifont-14.0.01.ttf
+and
+https://unifoundry.com/pub/unifont/unifont-14.0.01/font-builds/unifont_upper-14.0.01.ttf
+in December 2021.
+
+Unifont 14 is dual-licensed under the SIL Open Font License (OFL) version 1.1
+and the GNU GPL 2+ with the GNU font embedding exception.
+
+**This project is using Unifont 14 under the SIL OFL-1.1 option.**
+
+For additional details on the dual license, see [unifont/README.md](unifont/README.md)
