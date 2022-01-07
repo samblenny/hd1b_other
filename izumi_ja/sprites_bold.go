@@ -1,3 +1,5 @@
+// Copyright (c) 2022 Sam Blenny
+// SPDX-License-Identifier: MIT
 package main
 
 import (

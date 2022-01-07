@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright (c) 2022 Sam Blenny
+# SPDX-License-Identifier: MIT
 
 GRAY="-colorspace gray -level 0%,75% -background white -alpha remove"
 DITHER2="-ordered-dither o2x2,2"
