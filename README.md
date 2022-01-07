@@ -6,8 +6,8 @@ other glyph sets for high-dpi 1-bit monochrome
 ## Legal
 
 Unless otherwised noted, source code here for building sprite sheets is released under
-the MIT license. Typefaces and font files are covered by their own copyrights and
-license notices (see below).
+the MIT license. Typefaces, font files, and Unicode data are covered by their own
+copyrights and license notices (see below).
 
 
 ### JF Dot Izumi 16
@@ -58,3 +58,11 @@ and the GNU GPL 2+ with the GNU font embedding exception.
 **This project is using Unifont 14 under the SIL OFL-1.1 option.**
 
 For additional details on the dual license, see [unifont/README.md](unifont/README.md)
+
+
+### Unicode Data Files
+
+This project uses Unicode Data Files from Unicode 14 as downloaded from https://unicode.org
+in January 2022.
+
+For license details, see [unicode/LICENSE-Unicode](unicode/LICENSE-Unicode).
