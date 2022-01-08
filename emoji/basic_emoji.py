@@ -9,8 +9,8 @@ Transformation Rules:
 - Include entries like "1F004" (Supplementary Multilingual Plane)
 - Transform entries like "00A9 FE0F" as "00A9" (drop the FE0F)
 - Include U+FE0F (variation selector)
-- Include U+20E3 (combining enclosing keycap)
 - Include U+FFFD (replacement character)
+- Omit U+20E3 (combining enclosing keycap)
 - Skip entries like "0023 FE0F 20E3" (keycap sequence)
 - Skip entries like "1F1E6 1F1E8" (flag sequence)
 - Skip tag sequences
@@ -27,8 +27,8 @@ glyph lookup failure (since they can occur in normal strings).
 import re
 
 INFILE = "../unicode/emoji-sequences.txt"
-OUTFILE = "codepoints.txt"
-codepoints = [0x20E3, 0xFE0F, 0xFFFD]
+OUTFILE = "basic_emoji.codepoints"
+codepoints = [0xFE0F, 0xFFFD]
 
 basic_range = re.compile('([A-F0-9]+)\.\.([A-F0-9]+) +; Basic_Emoji')
 basic_single = re.compile('([A-F0-9]+) +; Basic_Emoji')
