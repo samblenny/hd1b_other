@@ -33,17 +33,6 @@ For NeoDunggeunmo copyright and license details (SIL Open Font License, Version 
 - [neodgm_kr/neodgm/LICENSE-neodgm](neodgm_kr/neodgm/LICENSE-neodgm)
 
 
-### NotoEmoji Regular
-
-This project uses glyphs from the NotoEmoji Regular font as downloaded from
-https://github.com/googlefonts/noto-emoji/blob/v2020-09-16-unicode13_1/fonts/NotoEmoji-Regular.ttf
-in November 2021.
-
-For NotoEmoji copyright and license details (SIL Open Font License, Version 1.1), see:
-- [bw_emoji/notoemoji/LICENSE-notoemoji](bw_emoji/notoemoji/LICENSE-notoemoji)
-- [bw_emoji/notoemoji/INFO-notoemoji](bw_emoji/notoemoji/INFO-notoemoji)
-
-
 ### Unifont 14
 
 This project uses glyphs from the Unifont 14 ttf fonts as downloaded from
@@ -57,7 +46,8 @@ and the GNU GPL 2+ with the GNU font embedding exception.
 
 **This project is using Unifont 14 under the SIL OFL-1.1 option.**
 
-For additional details on the dual license, see [unifont/README.md](unifont/README.md)
+For details on the dual license, see:
+- [unifont/README.md](unifont/README.md)
 
 
 ### Unicode Data Files
@@ -65,4 +55,5 @@ For additional details on the dual license, see [unifont/README.md](unifont/READ
 This project uses Unicode Data Files from Unicode 14 as downloaded from https://unicode.org
 in January 2022.
 
-For license details, see [unicode/LICENSE-Unicode](unicode/LICENSE-Unicode).
+For license details, see:
+- [unicode/LICENSE-Unicode](unicode/LICENSE-Unicode).
