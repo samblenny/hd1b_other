@@ -1,6 +1,6 @@
 # JF Dot Izumi Gothic 16 Bitmap Font
 
-Japanese glyph set for high-dpi 1-bit monochrome
+Japanese 16px glyph set for 1-bit monochrome
 
 Current glyph coverage: see [Izumi16.codepoints](Izumi16.codepoints)
 
@@ -27,7 +27,7 @@ work on Debian-derived distros such as Ubuntu. YMMV.
 
 ### Generating PNG Glyph Grid Sprite Sheets
 
-1. Make sure you have a working Go compiler, Imagemagick, and a bash shell
+1. Make sure you have a working Go compiler, Imagemagick, pngcrush, and a bash shell
 
 2. Run the svg sprite generators:
    ```

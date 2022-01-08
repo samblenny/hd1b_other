@@ -1,6 +1,6 @@
 # NeoDunggeunmo (Neo둥근모) Bitmap Font
 
-Korean glyph set for high-dpi 1-bit monochrome
+Korean 16px glyph set for 1-bit monochrome
 
 Current glyph coverage: see [neodgm.codepoints](neodgm.codepoints)
 
@@ -26,7 +26,7 @@ work on Debian-derived distros such as Ubuntu. YMMV.
 
 ### Generating PNG Glyph Grid Sprite Sheets
 
-1. Make sure you have a working Go compiler, Imagemagick, and a bash shell
+1. Make sure you have a working Go compiler, Imagemagick, pngcrush, and a bash shell
 
 2. Run the svg sprite generator: `go run sprites.go`
 
