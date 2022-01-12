@@ -36,7 +36,15 @@ For additional context see:
 
 ## Legal
 
-## Unicode Data Files
+### GNU Unifont Bitmap Glyphs
+
+The hanzi glyphs here come from GNU Unifont 14, used under the OFL-1.1 license option.
+For Unifont license details, see:
+- [../unifont/README.md](../unifont/README.md)
+- [../unifont/OFL-1.1.txt](../unifont/OFL-1.1.txt)
+
+
+### Unicode Data Files
 
 This uses character lists derived from Unicode Data Files at
 https://www.unicode.org/Public/14.0.0/ucd/
@@ -44,11 +52,3 @@ https://www.unicode.org/Public/14.0.0/ucd/
 For Unicode Data File license details, see:
 - [../unicode/README.md](../unicode/README.md)
 - [../unicode/LICENSE-Unicode](../unicode/LICENSE-Unicode)
-
-
-### GNU Unifont Bitmap Glyphs
-
-The hanzi glyphs here come from GNU Unifont 14, used under the OFL-1.1 license option.
-For Unifont license details, see:
-- [../unifont/README.md](../unifont/README.md)
-- [../unifont/OFL-1.1.txt](../unifont/OFL-1.1.txt)
